@@ -19,7 +19,7 @@ function EvenFibonacciNumber(){
     //Save the previous number of the fibbonacci sequence 
     let previousNumber = 0 
     // Save de sum of the last and previus number, then this result will become the last number.
-    let currentNumber =0
+    let currentNumber = 0
 
 
   
