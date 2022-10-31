@@ -36,3 +36,5 @@ const difference = (num) =>{
 console.log(sumSquares(10))
 console.log(sumSquaresDouble(10))
 console.log(difference(100))
+
+// answer 25164150
